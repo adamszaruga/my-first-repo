@@ -15,5 +15,7 @@ function enchilladas() {
     console.log('other enchillada stuff')
 }
 
+console.log('whatever')
+console.log('hi')
 
 enchilladas();
