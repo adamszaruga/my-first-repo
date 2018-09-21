@@ -17,5 +17,6 @@ function enchilladas() {
 
 console.log('whatever')
 console.log('hi')
+console.log('suh dude');
 
 enchilladas();
